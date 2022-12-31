@@ -1,16 +1,37 @@
-### Hi there 👋
+## Olá eu sou a Gabriela Ventura, seja bem vinde ao meu perfil! 👋
 
-<!--
-**gabrielalventura/gabrielalventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻  Estudante de Desenvolvimento Web na Trybe;
+- 📚  Atualmente iniciando o módulo de Back-End;
+- 👷🏽  Engenheira Civil pelo UniBH com experiência na área de projetos de construção civil;
+- 😄  Pronomes: Ela/Dela
+- ✨  Curiosa por natureza, sou apaixonada por descobrir e entender como e porque e adoraria unir os conhecimentos práticos adquiridos na construção de uma sociedade melhor e simplificada. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <a href="https://github.com/gabrielalventura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielalventura&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalventura&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Gabi-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Gabi-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+              
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/978345317693022268" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrielaleitev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielalventura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/gabrielalventura/gabrielalventura/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
