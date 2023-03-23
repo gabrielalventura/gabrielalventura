@@ -4,7 +4,7 @@
 - 📚  Atualmente iniciando o módulo de Back-End;
 - 👷🏽  Engenheira Civil pelo UniBH com experiência na área de projetos de construção civil;
 - 😄  Pronomes: Ela/Dela
-- ✨  Curiosa por natureza, sou apaixonada por descobrir e entender como e porque e adoraria unir os conhecimentos práticos adquiridos na construção de uma sociedade melhor e simplificada. 
+- ✨  Curiosa por natureza, sou apaixonada por descobrir e entender como e porque das coisas serem como são e adoraria unir os conhecimentos práticos adquiridos na construção de uma sociedade melhor e simplificada. 
 
 
 
