@@ -38,7 +38,7 @@
     <img align="center" alt="Gabi-chai" height="30" width="110" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
     <img align="center" alt="Gabi-sinon" height="30" width="100" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
     <img align="center" alt="Gabi-JWT" height="30" width="150" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-    <img align="center" alt="Gabi-Python" height="30" width="110" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Gabi-Python" height="30" width="110" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Gabi-Git" height="30" width="85" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="Gabi-github" height="30" width="110" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="Gabi-ESLint" height="30" width="110" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
