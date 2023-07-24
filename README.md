@@ -1,6 +1,6 @@
 ## Olá eu sou a Gabriela Ventura, seja bem vinde ao meu perfil! 👋
 
-- 💻  Estudante de Desenvolvimento Web na Trybe;
+- 💻  Desenvolvedora Web Full Stack;
 - 👷🏽  Engenheira Civil pelo UniBH com experiência na área de projetos de construção civil;
 - 😄  Pronomes: Ela/Dela
 - ✨  Curiosa por natureza, sou apaixonada por descobrir e entender como e porque das coisas serem como são e adoraria unir os conhecimentos práticos adquiridos na construção de uma sociedade melhor e simplificada. 
